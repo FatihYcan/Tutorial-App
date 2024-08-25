@@ -44,5 +44,6 @@ Bu proje, React.js kullanarak basit bir öğretici uygulamasını göstermektedi
 - React Bootstrap
 - [API](https://tutorial-api.fullstack.clarusway.com/)
 
-[Live](https://fy-tutorial-app.netlify.app/)
+https://github.com/user-attachments/assets/c611c72d-7160-4136-80ad-551a479ce411
 
+[Live](https://fy-tutorial-app.netlify.app/)
