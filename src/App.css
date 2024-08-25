@@ -1,0 +1,40 @@
+/* Genel Stil Ayarları */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #343a40;
+}
+
+h1.display-6 {
+  font-size: 1.75rem;
+}
+
+form {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.table th,
+.table td {
+  padding: 1rem;
+  border: 1px solid #dee2e6;
+}
+
+.table th {
+  background-color: #e9ecef;
+}
+
+@media (max-width: 576px) {
+  .table th,
+  .table td {
+    padding: 0.7rem;
+  }
+  Table {
+    font-size: 0.8rem;
+  }
+}
