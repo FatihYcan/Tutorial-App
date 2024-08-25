@@ -43,3 +43,6 @@ Bu proje, React.js kullanarak basit bir öğretici uygulamasını göstermektedi
 - React Icons
 - React Bootstrap
 - [API](https://tutorial-api.fullstack.clarusway.com/)
+
+[Live](https://fy-tutorial-app.netlify.app/)
+
